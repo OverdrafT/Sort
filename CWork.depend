@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1527734821 source:c:\users\shche\desktop\cwork\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1527745255 c:\users\shche\desktop\cwork\menu.h
+	"menu.h"
+
+1527736683 source:c:\users\shche\desktop\cwork\array.c
+	<stdio.h>
+	<stdlib.h>
+	"Array.h"
+	"menu.h"
+
+1527735411 c:\users\shche\desktop\cwork\array.h
+	"Array.h"
+
+1527731911 source:c:\users\shche\desktop\cwork\measurement.c
+	"Measurement.h"
+	<stdio.h>
+
+1527732377 c:\users\shche\desktop\cwork\measurement.h
+
+1527731645 source:c:\users\shche\desktop\cwork\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"menu.h"
+	"Array.h"
+	"Sort.h"
+	"Table.h"
+
+1527734978 source:c:\users\shche\desktop\cwork\sort.c
+	<time.h>
+	"Sort.h"
+	"menu.h"
+	"Array.h"
+
+1527734786 c:\users\shche\desktop\cwork\sort.h
+	<time.h>
+
+1527735220 source:c:\users\shche\desktop\cwork\table.c
+	"menu.h"
+	"Table.h"
+	"Measurement.h"
+	"Sort.h"
+	"Array.h"
+
+1527731588 c:\users\shche\desktop\cwork\table.h
+	"time.h"
+
