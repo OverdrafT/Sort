@@ -7,4 +7,5 @@ clone repositiry \
 `
 gcc main.c
 ` \
+Use menu to choose an array sorting method \
 Enjoy!
