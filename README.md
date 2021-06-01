@@ -13,4 +13,5 @@ Enjoy!
 ### Remark
 You can run it only on Windows OS, due to the specifics of libraries.
 ### Results of work
-![alt text](Table.png )
+![alt text](Table.png)
+![alt text](Table2.png)
