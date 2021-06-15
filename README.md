@@ -13,5 +13,6 @@ Enjoy!
 ### Remark
 You can run it only on Windows OS, due to the specifics of libraries.
 ### Results of work
+Here you can see the result of sorting on the given arrays in milliseconds. 
 ![alt text](Table.png)
 ![alt text](Table2.png)
